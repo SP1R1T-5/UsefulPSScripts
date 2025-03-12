@@ -1,0 +1,2 @@
+# UsefulPSScripts
+I hate powershell :)
